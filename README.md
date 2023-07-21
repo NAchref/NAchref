@@ -1,14 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ach</h1>
-<h3 align="center">A passionate developer from tunisia</h3>
-<img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif" alt="ach" width="400" align="right" />
-
-
 - 🔭 I’m currently working on [MultiCloud Application With Load Balancer](https://github.com/NAchref/Multi-Cloud-Application-with-Load-Balancing-on-AWS-and-Azure)
-
-- 🌱 I’m currently learning **Azure & AWS Administration**
-
-- 💬 Ask me about **PHP, Django and All CMS staff**
-
 - 📫 How to reach me **achref.nefzaoui@esprit.tn**
 
 <h3 align="left">Connect with me:</h3>
