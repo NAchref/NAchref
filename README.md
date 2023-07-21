@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ach</h1>
 <h3 align="center">A passionate developer from tunisia</h3>
-<img src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" alt="ach" with="100" align="right" />
+<img src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" alt="ach" width="100" align="right" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nachref&label=Profile%20views&color=0e75b6&style=flat" alt="nachref" /> </p>
 
