@@ -1,4 +1,3 @@
-<h2 align="center">Hi 👋, I'm Ach</h2>
 - 🔭 I’m currently working on [MultiCloud Application With Load Balancer](https://github.com/NAchref/Multi-Cloud-Application-with-Load-Balancing-on-AWS-and-Azure)
 - 📫 How to reach me **achref.nefzaoui@esprit.tn**
 
@@ -12,5 +11,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nachref&show_icons=true&locale=en&layout=compact" alt="nachref" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nachref&show_icons=true&locale=en" alt="nachref" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nachref&show_icons=true&locale=en" alt="nachref" height="250" /></p>
 
