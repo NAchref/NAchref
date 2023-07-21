@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from tunisia</h3>
 <img src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" alt="ach" width="400" align="right" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nachref&label=Profile%20views&color=0e75b6&style=flat" alt="nachref" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=nachref&label=Profile%20views&color=0e75b6&style=flat](https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif)" alt="nachref" /> </p>
 
 - 🔭 I’m currently working on [MultiCloud Application With Load Balancer](https://github.com/NAchref/Multi-Cloud-Application-with-Load-Balancing-on-AWS-and-Azure)
 
