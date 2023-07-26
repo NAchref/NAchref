@@ -7,3 +7,10 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nachref&show_icons=true&locale=en" alt="nachref" height="120" />&nbsp;
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nachref&" alt="nachref" height="120"/></p>
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nachref&show_icons=true&locale=en&layout=compact" alt="nachref" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nachref&show_icons=true&locale=en" alt="nachref" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nachref&" alt="nachref" /></p>
+
